@@ -9,7 +9,6 @@ This is my GitHub playground. I'm all about building sleek web experiences and s
 ## Skills
 - 💻 **Front-end:** JavaScript, React, Redux, CSS
 - ⚙️ **Back-end:** Python, Flask, SQLAlchemy
-- 🔒 **Security:** bcrypt for password hashing
 - 📊 **Databases:** SQL (SQLite, PostgreSQL)
 
 ## Hobbies That Bring Me Joy 🌟
